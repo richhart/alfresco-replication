@@ -15,6 +15,11 @@ local.properties
 .classpath
 .settings/
 .loadpath
+*.iml
+*.gitignore
+.idea
+*.idea
+.idea*
 
 # External tool builders
 .externalToolBuilders/
